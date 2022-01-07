@@ -7,6 +7,7 @@ echo toupper characters back in cdc_task.
 # build
 
 1. export PICO_SDK_PATH=<your_pico_sdk_path>
-1. mkdir build
-1. cmake ..
-1. make
+2. mkdir build
+3. cd build
+3. cmake ..
+4. make
