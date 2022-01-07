@@ -1,6 +1,6 @@
 # FreeRTOS-TinyUSB-RP2040
 
-[FreeRTOS-SMP-Demos](https://github.com/FreeRTOS/FreeRTOS-SMP-Demos.git)/CORTEX_M0+_RP2040 + TinyUSB
+[FreeRTOS-SMP-Demos](https://github.com/FreeRTOS/FreeRTOS-SMP-Demos/tree/main/FreeRTOS/Demo/CORTEX_M0%2B_RP2040) + TinyUSB
 
 echo toupper characters back in cdc_task.
 
